@@ -1,0 +1,161 @@
+++++++++++++++++++++++
+Nombre: Javier
+Nivel:  3
+Ganó?:  SI
+Valor:  300000
+++++++++++++++++++++++
+Nombre: Felipe
+Nivel:  1
+Ganó?:  SI
+Valor:  $100.000
+++++++++++++++++++++++
+Nombre: carlos
+Nivel:  5
+Ganó?:  SI
+Valor:  $500.000
+++++++++++++++++++++++
+Nombre: Mario
+Nivel:  2
+Ganó?:  NO
+++++++++++++++++++++++
+Nombre: Juliana
+Nivel:  1
+Ganó?:  NO
+++++++++++++++++++++++
+Nombre: yuli
+Nivel:  1
+Ganó?:  NO
+++++++++++++++++++++++
+Nombre: catalina
+Nivel:  2
+Ganó?:  NO
+++++++++++++++++++++++
+Nombre: carlos
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: natalia
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: dario
+Nivel:  2
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: neicy
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: juan
+Nivel:  3
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: jose
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: carlos
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: & C:/Users/jav71/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/jav71/Documents/Preguntas y respuestas/Ejercicioprueba.py"
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: son
+Nivel:  3
+Ganó?:  SI
+Valor:  $300.000
+++++++++++++++++++++++
+Nombre: carlos
+Nivel:  2
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: jose
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: javier
+Nivel:  1
+Ganó?:  SI
+Valor:  $100.000
+++++++++++++++++++++++
+Nombre: jhon
+Nivel:  1
+Ganó?:  SI
+Valor:  $100.000
+++++++++++++++++++++++
+Nombre: farid
+Nivel:  1
+Ganó?:  SI
+Valor:  $100.000
+++++++++++++++++++++++
+Nombre: fredy
+Nivel:  5
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: lucas
+Nivel:  5
+Ganó?:  SI
+Valor:  $500.000
+++++++++++++++++++++++
+Nombre: pedro
+Nivel:  2
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: francia
+Nivel:  3
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: JUan
+Nivel:  3
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: lucas
+Nivel:  2
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: ferney
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: juen
+Nivel:  1
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: Carlos
+Nivel:  5
+Ganó?:  SI
+Valor:  $500.000
+++++++++++++++++++++++
+Nombre: JUan
+Nivel:  5
+Ganó?:  SI
+Valor:  $500.000
+++++++++++++++++++++++
+Nombre: pedro
+Nivel:  2
+Ganó?:  NO
+Valor:  $0
+++++++++++++++++++++++
+Nombre: simon
+Nivel:  4
+Ganó?:  SI
+Valor:  $400.000
